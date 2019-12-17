@@ -1,0 +1,7 @@
+python3
+numpy 
+pandas 
+matplotlib
+keraas(backend tensorflow )
+i provided the link of the dataset in the report/proposal 
+
